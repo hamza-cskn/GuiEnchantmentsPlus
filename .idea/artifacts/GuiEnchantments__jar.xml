@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GuiEnchantments+:jar">
+    <output-path>$PROJECT_DIR$/../../Local Servers &amp; Setups/LOCAL 116/plugins</output-path>
+    <root id="archive" name="GuiEnchantments+.jar">
+      <element id="module-output" name="GuiEnchantments+" />
+    </root>
+  </artifact>
+</component>
